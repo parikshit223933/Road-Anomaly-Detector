@@ -1,0 +1,7 @@
+Person
+Car
+Speed Breaker
+Discrepancy
+Rough Road
+Wet Road
+Cavity
